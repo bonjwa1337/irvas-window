@@ -2,4 +2,6 @@
 
 ## Study project
 
-## Native JS, ES6+, LESS
+## Tech
+
+Native JS, ES6+, LESS
